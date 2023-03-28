@@ -1,0 +1,30 @@
+{
+  "name": "chatGPT",
+  "plugins": [
+    {
+      "name": "Chakra UI",
+      "description": "Chakra UI is a simple, modular and accessible component library that gives you the building blocks you need to build your React applications.",
+      "url": "https://chakra-ui.com/docs/getting-started"
+    },
+    {
+      "name": "SASS/SCSS",
+      "description": "Sass is a stylesheet language that’s compiled to CSS. It allows you to use variables, nested rules, mixins, functions, and more, all with a fully CSS-compatible syntax.",
+      "url": "https://sass-lang.com/documentation"
+    },
+    {
+      "name": "React Redux",
+      "description": "Redux helps you write applications that behave consistently, run in different environments (client, server, and native), and are easy to test.",
+      "url": "https://redux.js.org/introduction/getting-started"
+    },
+    {
+      "name": "eslint",
+      "description": "",
+      "url": ""
+    },
+    {
+      "name": "jest",
+      "description": "",
+      "url": ""
+    }
+  ]
+}
